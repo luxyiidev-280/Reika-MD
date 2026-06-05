@@ -1,0 +1,48 @@
+# Node.js
+node_modules/
+package-lock.json
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
+
+# Sessão / autenticação WhatsApp
+session/
+sessions/
+auth/
+auth_info/
+baileys_store.json
+creds.json
+*.session
+
+# Segredos / APIs / configs privadas
+.env
+.env.*
+private/
+secrets/
+*.key
+*.pem
+dono/apis.json
+
+# Logs
+logs/
+dados/logs/
+*.log
+
+# Temporários
+tmp/
+temp/
+storage/temp/
+dados/midias/temp/
+*.tmp
+*.cache
+
+# Backups locais
+*.bak
+*.backup
+*.old
+*_backup/
+backup/
+
+# Sistema
+.DS_Store
+Thumbs.db

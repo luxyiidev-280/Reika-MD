@@ -1,0 +1,32 @@
+{
+  "name": "reika-md",
+  "version": "1.5.0",
+  "description": "Reika-MD WhatsApp bot - Frost Blade Core",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --no-warnings main.js",
+    "qr": "node --no-warnings main.js qr",
+    "code": "node --no-warnings main.js code",
+    "reset": "rm -rf session && mkdir -p session",
+    "clean": "rm -rf node_modules package-lock.json && npm install",
+    "check": "node --check main.js && node --check index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "baileys",
+    "bot",
+    "native-flow",
+    "stickers",
+    "reika-md"
+  ],
+  "author": "Luxyii",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "7.0.0-rc13",
+    "node-webpmux": "^3.2.1",
+    "pino": "10.3.1",
+    "qrcode": "1.5.4",
+    "qrcode-terminal": "0.12.0"
+  }
+}

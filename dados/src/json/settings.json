@@ -1,0 +1,6 @@
+{
+  "fakeVerifiedQuote": true,
+  "mentionPreferPhone": true,
+  "strictMentionResolver": true,
+  "antipv3": false
+}

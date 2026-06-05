@@ -1,0 +1,11 @@
+{
+  "autoread": true,
+  "antipv": false,
+  "antifake": false,
+  "antilink": false,
+  "antitrava": true,
+  "modoPublico": true,
+  "botaoNativeFlow": true,
+  "cooldown": true,
+  "logsMensagem": true
+}
