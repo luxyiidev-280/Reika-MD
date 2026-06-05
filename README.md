@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./src/midias/fotobot.png" width="230" alt="Reika-MD">
+<img src="./src/midias/fotobot.jpg" width="230" alt="Reika-MD">
 
 # ❄️ Reika-MD
 
@@ -46,18 +46,6 @@ Use por sua conta e risco. Não trate esta base como versão final ou 100% está
 A **Reika-MD** é um bot WhatsApp construído com foco em visual bonito, estrutura expansível, sistemas de grupos, proteções automáticas, stickers, jogos, menus com botões e funcionamento em Termux.
 
 A base não depende de uma API fixa obrigatória. O usuário pode configurar sua própria API depois.
-
----
-
-## 📷 Imagem do bot
-
-A imagem oficial do README fica em:
-
-```txt
-./src/midias/fotobot.png
-```
-
-Coloque sua imagem nesse caminho antes de publicar o repositório.
 
 ---
 
@@ -178,7 +166,7 @@ Reika-MD/
 ```bash
 pkg update -y && pkg upgrade -y
 pkg install -y nodejs git ffmpeg python make clang
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/luxyiidev-280/Reika-MD.git
 cd Reika-MD
 npm install
 npm start
@@ -535,21 +523,6 @@ Apagar:
 !info rename
 !info modobrincadeira
 ```
-
----
-
-## 🚫 Não publique
-
-Nunca envie para o GitHub:
-
-- `session/`
-- `node_modules/`
-- `dono/apis.json`
-- `.env`
-- tokens
-- keys
-- logs
-- dados privados
 
 ---
 
