@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./src/midias/fotobot.jpg" width="230" alt="Reika-MD">
+<img src="./src/midias/fotobot.png" width="230" alt="Reika-MD">
 
 # ❄️ Reika-MD
 
