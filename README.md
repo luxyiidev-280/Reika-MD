@@ -6,7 +6,7 @@
 
 ### Frost Blade Core • WhatsApp Bot em desenvolvimento
 
-![Status](https://img.shields.io/badge/Status-Ativo-00c853?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-ativo-00c853?style=for-the-badge)
 ![Versão](https://img.shields.io/badge/Versão-Dev-blue?style=for-the-badge)
 ![Base](https://img.shields.io/badge/Base-Baileys-cyan?style=for-the-badge)
 ![Licença](https://img.shields.io/badge/Licença-MIT-purple?style=for-the-badge)
@@ -23,6 +23,8 @@ A **Reika-MD ainda está em desenvolvimento**.
 Esta base pode conter falhas graves, comandos incompletos, sistemas instáveis, erros em eventos do WhatsApp, problemas com LID/PN e mudanças frequentes na estrutura.
 
 Use por sua conta e risco. Não trate esta base como versão final ou 100% estável.
+
+Essa base está desatualizada.
 
 ---
 
